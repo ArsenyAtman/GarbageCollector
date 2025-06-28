@@ -9,7 +9,7 @@ public:
 
     static void init(T* resourceToManage)
     {
-        if(resource == nullptr)
+        if (resource == nullptr)
         {
             resource = resourceToManage;
         }
@@ -31,6 +31,6 @@ private:
         }
     }
 
-}
+};
 
 #endif
