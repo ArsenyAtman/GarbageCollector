@@ -1,0 +1,14 @@
+# Ignore all
+/*
+/*/
+
+#Ignore VS files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Except
+!.gitignore
+!README.md
+!/GarbageCollector/
