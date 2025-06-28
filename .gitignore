@@ -1,6 +1,7 @@
 # Ignore all
 /*
 /*/
+*/x64/*
 
 #Ignore VS files
 *.sln
